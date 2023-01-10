@@ -18,8 +18,8 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/rohit-kumar-29430223a/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="rohit715131" height="30" width="40" /></a>
-<a href = 'https://github.com/rohit715131'> <img width = '32px' align= 'center' src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a> 
-
+<a href = 'https://github.com/rohit715131' target="_blank"> <img width = '32px' align= 'center' src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a> 
+<a href = 'https://rohit715131.github.io/'  target="_blank"> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/281/281089.png"/></a>
 </p>
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <h2 align="left">Languages and Tools :  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
