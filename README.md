@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Javascript , Reactjs , Algorithms**
 
-<h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/rohit715131/rohit715131/main/Assets/handshake.gif' width="100px"></h2>
+<h2 align="left">Connect with me: </h2>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/rohit-kumar-29430223a/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="rohit715131" height="30" width="40" /></a>
