@@ -2,9 +2,7 @@
 , I'm Rohit Kumar Yadav</h1>
 <h3 align="center">< Full Stack Web Developer /></h3>
 
-<img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" align="center"  />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kniranjan0&label=Profile%20views&color=0e75b6&style=flat" alt="kniranjan0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit715131&label=Profile%20views&color=0e75b6&style=flat" alt="rohit715131" /> </p>
 
 - 🌱 I’m currently learning **MERN stack**
 
